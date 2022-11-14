@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Entrega5\AgenciaApplication\AgenciaApplication\obj\Debug\net6.0\AgenciaApplication.RazorAssemblyInfo.cs
